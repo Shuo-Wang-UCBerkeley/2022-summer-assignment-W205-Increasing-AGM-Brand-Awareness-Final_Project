@@ -13,7 +13,7 @@ Summer 2022
   - [Calculate Shortest Distances](#Calculate-Shortest-Distances)
   - [Deploy Pickup/Delivery Posts](#Deploy-Pickup/Delivery-posts)
   - [Results and Discussion](#Results-and-Discussion)
-  - [Future](#Future)
+  - [Helpful Information](#Helpful-Information)
     - [NoSQL DBs](#NoSQL-DBs)
     - [Apply to Business](#Apply-to-Business)
     - [SQL DBs vs NoSQL DBs](#SQL-DBs-vs-NoSQL-DBs)
@@ -41,9 +41,12 @@ Objective: Increase Acme Gourmet Meals brand awareness beyond the local Berkeley
 3. Decrease time for delivery (during rush hour)
 
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Results.png)
-## Future
+## Helpful Information
 ### NoSQL DBs
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/NoSQL-DBs.png)
 ### Apply to Business
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Apply-to-Business.png)
 ### SQL DBs vs NoSQL DBs
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/SQL-DBs-VS-NoSQL-DBs.png)
 
 [Back-To-Top](#final-project-Increasing-AGM-Brand-Awareness)
