@@ -11,7 +11,7 @@ Summer 2022
   - [Berkeley Store Heat Map](#Berkeley-Store-Heat-Map)
   - [Identify Top Customers](#Identify-Top-Customers)
   - [Calculate Shortest Distances](#Calculate-Shortest-Distances)
-  - [Deploy Pickup/Delivery Posts](#Deploy-Pickup/Delivery-posts)
+  - [Deploy Pickup or Delivery Posts](#Deploy-Pickup-or-Delivery-posts)
   - [Results and Discussion](#Results-and-Discussion)
   - [Helpful Information](#Helpful-Information)
     - [NoSQL DBs](#NoSQL-DBs)
@@ -32,7 +32,7 @@ Objective: Increase Acme Gourmet Meals brand awareness beyond the local Berkeley
 ## Calculate Shortest Distances
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Calculate-Shortest-Distances.png)
 
-## Deploy Pickup/Delivery Posts
+## Deploy Pickup or Delivery Posts
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Deploy.png)
 
 ## Results and Discussion
