@@ -21,32 +21,26 @@ Summer 2022
 ## Project Overview
 Objective: Increase Acme Gourmet Meals brand awareness beyond the local Berkeley neighborhood.
 
-![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
-/blob/main/Images/Solution-Approach.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Solution-Approach.png)
 
 ## Berkeley Store Heat Map
-![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
-/blob/main/Images/Berkeley-Store-Heat-Map.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Berkeley-Store-Heat-Map.png)
 
 ## Identify Top Customers 
-![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
-/blob/main/Images/Identify-Top-Customer.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Identify-Top-Customer.png)
 
 ## Calculate Shortest Distances
-![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
-/blob/main/Images/Calculate-Shortest-Distances.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Calculate-Shortest-Distances.png)
 
 ## Deploy Pickup/Delivery Posts
-![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
-/blob/main/Images/Deploy.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Deploy.png)
 
 ## Results and Discussion
 1. Increased brand awareness
 2. Decreased cost of delivery 
 3. Decrease time for delivery (during rush hour)
 
-![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
-/blob/main/Images/Results.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project/blob/main/Images/Results.png)
 ## Future
 ### NoSQL DBs
 ### Apply to Business
